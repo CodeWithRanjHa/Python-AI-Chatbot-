@@ -72,3 +72,14 @@ Your feedback and suggestions are greatly appreciated!
 - **User Authentication**: Secure login for personalized chat experiences.
 
 
+## Social Media
+
+Stay connected and follow me on social media for updates, tutorials, and more projects:
+
+- **GitHub**: [CodeWithRanjHa](https://github.com/CodeWithRanjHa)
+- **LinkedIn**: [Wasim Ranjha](https://linkedin.com/wasim-ranjhaa)
+- **Facebook**: [Wasim Ranjha](https://facebook.com/wasimranjhaa)
+- **WhatsApp**: +923436000542
+
+
+
