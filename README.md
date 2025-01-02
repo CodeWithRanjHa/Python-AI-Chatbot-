@@ -1,4 +1,6 @@
 # Python AI Chatbot - Anna
+![AI_CHATBOT](https://github.com/user-attachments/assets/4189a881-6c20-4cd3-b343-c5d3598e1ec9)
+
 
 ## About
 
