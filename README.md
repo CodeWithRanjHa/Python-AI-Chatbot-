@@ -76,10 +76,9 @@ Your feedback and suggestions are greatly appreciated!
 
 Stay connected and follow me on social media for updates, tutorials, and more projects:
 
-- **GitHub**: [CodeWithRanjHa](https://github.com/CodeWithRanjHa)
-- **LinkedIn**: [Wasim Ranjha](https://linkedin.com/wasim-ranjhaa)
-- **Facebook**: [Wasim Ranjha](https://facebook.com/wasimranjhaa)
-- **WhatsApp**: +923436000542
-
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="20" height="20"> **GitHub**: [CodeWithRanjHa](https://github.com/CodeWithRanjHa)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" width="20" height="20"> **LinkedIn**: [Wasim Ranjha](https://linkedin.com/wasim-ranjhaa)
+- <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook Icon" width="20" height="20"> **Facebook**: [Wasim Ranjha](https://facebook.com/wasimranjhaa)
+- <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp Icon" width="20" height="20"> **WhatsApp**: +923436000542
 
 
