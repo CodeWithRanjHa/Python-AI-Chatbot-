@@ -1,4 +1,5 @@
 # Python AI Chatbot - Anna
+## Preview
 ![AI_CHATBOT](https://github.com/user-attachments/assets/4189a881-6c20-4cd3-b343-c5d3598e1ec9)
 
 ## About
@@ -70,10 +71,4 @@ Your feedback and suggestions are greatly appreciated!
 - **Mobile Responsiveness**: Optimize the UI for mobile devices.
 - **User Authentication**: Secure login for personalized chat experiences.
 
-## Preview
 
-![Chatbot UI Animation](https://github.com/user-attachments/assets/sample-animation.gif)
-
----
-
-> **Anna**: Redefining conversational AI, one chat at a time.
